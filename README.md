@@ -42,12 +42,9 @@ This project highlights major workforce layoff trends from 2020 to 2023, identif
 3. Import the cleaned data into Power BI.
 4. Open the Power BI file (.pbix) to interact with the dashboards.
 
-## Dashboard Preview
-![Dashboard Screenshot](link-to-your-dashboard-image-if-available)
-
 ## Author
 Esther Bello
 
 ## License
-NULL
+
 
